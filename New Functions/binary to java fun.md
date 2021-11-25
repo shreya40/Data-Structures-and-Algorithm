@@ -4,9 +4,9 @@
 
 ### public static int parseInt(String s,int redix) 
 
+```
 
-
-`public class BinaryToDecimalExample1
+public class BinaryToDecimalExample1
 {  
 public static void main(String args[])
 {  
@@ -15,4 +15,4 @@ int decimal=Integer.parseInt(binaryString,2);
 System.out.println(decimal);  
 }
 } 
-`
+```
